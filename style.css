@@ -119,3 +119,15 @@ ol {
  top: 65px;
  margin: 5px;
 }
+
+ul {
+ position: relative;
+ list-style-type: none;
+ font-family: 'Inconsolata';
+ font-size: x-large;
+ right: 3vw;
+ top: 65px;
+ margin: 5px;
+}
+
+}
