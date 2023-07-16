@@ -75,34 +75,17 @@ main {
 h1 {
  font-size: 8vh;
  font-family: Arial, Helvetica, sans-serif;
-
  display: flex;
  flex-direction: column;
-
-
-
-
 }
 
 span {
  color: #9D3EBD;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+h3 {
+ font-family: Arial, Helvetica, sans-serif;
+ padding: 15px;
 
 
 
